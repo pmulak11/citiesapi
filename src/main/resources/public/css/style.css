@@ -1,0 +1,11 @@
+body {
+    background-color: azure;
+}
+
+vaadin-text-field {
+    width: 700px;
+}
+vaadin-button {
+    width: 150px;
+}
+
